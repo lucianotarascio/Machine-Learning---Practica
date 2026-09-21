@@ -1,6 +1,6 @@
 """
 21-09-2026
-
+Análisis de datos exploratorios (EDA) utilizando el dataset iris.csv (medidas de sépalos y pétalos de flores de iris) 
 """
 
 import pandas as pd
