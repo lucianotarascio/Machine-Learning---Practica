@@ -1,2 +1,32 @@
+------INTRODUCCIÓN
 
+--Tipo de aprendizaje
+Supervisado: Se entrena con datos etiquetados (datos de entrada emparejados con la respuesta correcta).
+No supervisado: busca estructuras o patrones ocultos en datos no etiquetados.
+
+--Flujo de trabajo estándar
+Recolección y preparación de datos: Limpieza, normalización y división en conjuntos de entrenamiento (train) y prueba (test).
+Selección del algoritmo: Elección del modelo según el tipo de problema (regresión, clasificación, agrupamiento).
+Entrenamiento: Ajuste de los parámetros del modelo para minimizar el error frente a los datos.
+Evaluación: Medición del rendimiento del modelo con datos no vistos mediante métricas específicas (precisión, recall, MSE).
+Despliegue e inferencia: Integración del modelo entrenado en producción para procesar nuevas entradas en tiempo real.
+
+--Regresión: Predice un valor continuo (un número real dentro de un rango infinito).
+--Clasificación: Predice una categoría discreta (una etiqueta o clase de un conjunto finito).
+
+--Algoritmos habituales
+
+Para Regresión: 
+- Regresión Lineal 
+- Regresión Ridge/Lasso 
+- Random Forest Regressor 
+- Support Vector Regression (SVR) 
+- XGBoost Regressor
+
+Para Clasificación: 
+- Regresión Logística  
+- Árboles de Decisión
+- Random Forest Classifier 
+- K-Nearest Neighbors (KNN) 
+- Support Vector Machines (SVM).
 
