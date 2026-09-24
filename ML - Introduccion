@@ -30,3 +30,7 @@ Para Clasificación:
 - K-Nearest Neighbors (KNN) 
 - Support Vector Machines (SVM).
 
+
+Overfitting: polinomios demasiado grandes, regresiones 'curvy', mucha varianza
+Regularización (lambda): evita el overfitting, ayuda a buena generalización
+Un lambda muy alto puede generar underfitting o bias
