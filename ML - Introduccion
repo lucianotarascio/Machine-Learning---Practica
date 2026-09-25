@@ -34,3 +34,7 @@ Para Clasificación:
 Overfitting: polinomios demasiado grandes, regresiones 'curvy', mucha varianza
 Regularización (lambda): evita el overfitting, ayuda a buena generalización
 Un lambda muy alto puede generar underfitting o bias
+
+Redes neuronales
+Esquema por capas (layers)
+Activation
