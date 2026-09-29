@@ -39,3 +39,10 @@ Redes neuronales
 - Esquema por capas (layers)
 - Activation
 -
+
+Support Vector Machines
+- Su objetivo principal es encontrar un hiperplano (un límite de decisión) que separe de la mejor manera posible las diferentes clases de datos, maximizando la distancia (margen) entre el hiperplano y los puntos más cercanos de cada clase, conocidos como vectores de soporte.
+- parámetros 'C' (penalización) y gamma (radio de influencia)
+
+K-mean cluster:
+
