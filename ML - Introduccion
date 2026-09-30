@@ -45,4 +45,12 @@ Support Vector Machines
 - parámetros 'C' (penalización) y gamma (radio de influencia)
 
 K-mean cluster:
+- Agrupa puntos en k clusters según cercanía
+- Mueve los clusters según la media de los puntos
+- Reagrupa y mueve hasta que no se mueven más
+
+Principal Component Analysis PCA
+- Reducción de dimensionalidad
+- Se elige la cantidad de dimensiones y se creal los componentes principales que son una mezcla de varios componentes.
+
 
