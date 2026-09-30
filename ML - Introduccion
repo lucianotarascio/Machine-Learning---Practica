@@ -53,4 +53,5 @@ Principal Component Analysis PCA
 - Reducción de dimensionalidad
 - Se elige la cantidad de dimensiones y se creal los componentes principales que son una mezcla de varios componentes.
 
-
+Recommender System
+- Sistemas de recomendaciones para usuarios
