@@ -58,3 +58,6 @@ Recommender System
 
 Natural Language Processing
 - Para linkear documentación similar. Basado en texto.
+Paso 1 ('bow'): Toma el texto crudo y usa CountVectorizer para procesarlo y convertirlo en una matriz de conteo de palabras (Bag of Words).   
+Paso 2 ('tfidf'): Recibe la matriz de conteos del paso anterior y le aplica TfidfTransformer para calcular la importancia relativa de cada palabra (pesos TF-IDF). 
+Paso 3 ('classifier'): Recibe los vectores TF-IDF procesados y entrena el algoritmo de clasificación (MultinomialNB).
