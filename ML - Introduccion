@@ -71,5 +71,8 @@ Perceptron: modelo de neurona. Entradas xi, salida y.
 - Hidden layers: capas intermedias entre inputs y outputs
 Deep neural network: más de una hidden layer
 
+Activation functions: ajustar los inputs a valoress entre 0 y 1. Ej. sigmoid function
+Multi-activation: non-exclusive y mutually-exclusive (one-hot) classes
+
 
 
